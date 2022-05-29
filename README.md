@@ -16,4 +16,5 @@
 ![Retiring Titles Pivot Table](/Data/retiring_titles_pivot.png)
 ![Mentorship_Eligibility Pivot Table](/Data/mentorship_eligibilty_pivot.png)
 
-##
+## - The number of employees who are retiring is in large number; the management should accelerate the hiring to prepare for the "Silver Tsunami" 
+## - We have insufficient number of employees who are eligible for the mentorship program.
