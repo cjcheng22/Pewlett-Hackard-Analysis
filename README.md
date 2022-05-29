@@ -8,10 +8,12 @@
 ![Retiring Titles](/Data/retiring_titles.png)
 ![Mentorship_Eligibility](/Data/mentorship_eligibilty.png)
 
-## ・
-## ・
-## ・
-## ・
+## ・61,318 does not have "to_date" of "1/1/9999", meaning 61,318 employees are eligile for active members who are eligible for retiring
+## ・Among 61,318 who are eligible for retiring, only 1,549 are eligible for the Mentor program.
+## ・Among 61,318, only 4 are currently managers; all other retirement eligible members are engineers/staffs/technical leaders.
+## ・Duplicate titles are in retiring titles csv file.  The analysis with removed duplictes will present better datapoint.
 # 3. Summary: The summary addresses the two questions and contains two additional queries or tables that may provide more insight.
-##
+![Retiring Titles Pivot Table](/Data/retiring_titles_pivot.png)
+![Mentorship_Eligibility Pivot Table](/Data/mentorship_eligibilty_pivot.png)
+
 ##
