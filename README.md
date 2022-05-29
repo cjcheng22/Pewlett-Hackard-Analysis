@@ -5,8 +5,8 @@
 ### - Determine the number of retiring employees per title
 ### - Identify employees who are eligible to participate in a mentorship program. 
 # 2. Results: There is a bulleted list with four major points from the two analysis deliverables. 
-![Retiring Titles](/data/retiring_titles.png)
-![Mentorship_Eligibility](/data/mentorship_eligibility.png)
+![Retiring Titles](/Data/retiring_titles.png)
+![Mentorship_Eligibility](/Data/mentorship_eligibility.png)
 
 ## ・
 ## ・
